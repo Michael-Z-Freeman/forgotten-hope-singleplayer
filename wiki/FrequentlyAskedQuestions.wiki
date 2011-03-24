@@ -1,0 +1,9 @@
+= Frequently Asked Questions =
+
+This page is an FAQ for CooP and Single Player issues. For general Forgotten Hope FAQ [http://forgottenhope.warumdarum.de/main.php?module=faq see this page].
+
+== Q. Why do I get frame rate drops / SP experience is slower than other mods =
+
+A. Forgotten Hope tends to put more of a load on the system, especially on the larger maps. This is bound to be reflected in AI performance as well. You could try setting BF2 to another core if you have a multi core system (to separate it from system tasks that should run on the first core).
+
+Further method is to run a BF2 dedicated server in LAN mode "C:\Program Files\EA GAMES\Battlefield 2\BF2ServerLauncher.exe". Then open task manager - processes - right click "bf2_w32ded.exe" and set affinity CPU1 only (or use a dedicated util like Set Affinity). Then run BF2, and do the same in task manager just set it to CPU0 only. Then join local. This may increase performance by quite a bit, since you'll use one CPU core for processing bots, and another for the game. 
