@@ -1,6 +1,6 @@
-= Frequently Asked Questions =
+<wiki:toc max_depth="3" />
 
-<wiki:toc max_depth="1" />
+= Frequently Asked Questions =
 
 This page is an FAQ for CooP and Single Player issues. For general Forgotten Hope FAQ [http://forgottenhope.warumdarum.de/main.php?module=faq see this page].
 
