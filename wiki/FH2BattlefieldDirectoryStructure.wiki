@@ -44,4 +44,4 @@ It's not always obvious where to find the places that FH2 functionality is imple
 
 =Note to Editors=
 
-Use [http://code.google.com/p/support/wiki/WikiSyntax#Lists lists wiki markup]. Link to sub sections on this page for descriptions or make a new page.
+Use [http://code.google.com/p/support/wiki/WikiSyntax#Lists lists wiki markup]. Link to sub sections on this page for descriptions or make a new page. For details .con and python files add lines numbers if possible (may depend on build) or the text of relevant line to search for.
