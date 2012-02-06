@@ -1,0 +1,47 @@
+#summary Where to find important files and directories.
+
+= Introduction =
+
+It's not always obvious where to find the places that FH2 functionality is implemented in various Battlefield 2 archives, ".con" files and python files. So this will be a map showing where to look.
+
+= FH2 Structure Map =
+
+ * ai\
+ * binaries\
+ * fh2settings\
+ * levels\
+ * localization\
+ * menu\
+ * movies\
+ * python\
+   # game
+ * settings\
+ * clientarchives.con
+ * gamelogicinit.con
+ * init.con
+ * serverarchives.con
+ * mod.desc
+ * fh2.ico
+ * mod.png
+ * mod_icon.png
+ * changelog.txt
+ * common_client.zip
+ * common_server.zip
+ * fonts_client.zip
+ * menu_client.zip
+ * menu_server.zip
+ * objects_client.zip
+ * objects_server.zip
+ * objects_statics_client.zip
+ * objects_statics_server.zip
+ * objects_vehicles_client.zip
+ * objects_vehicles_server.zip
+ * objects_weapons_client.zip
+ * objects_weapons_server.zip
+   # Weapons
+    * armament
+ * shaders_client.zip
+
+=Note to Editors=
+
+Use [http://code.google.com/p/support/wiki/WikiSyntax#Lists lists wiki markup]. Link to sub sections on this page for descriptions or make a new page.
