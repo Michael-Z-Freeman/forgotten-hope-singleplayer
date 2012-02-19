@@ -1,0 +1,18 @@
+<wiki:toc max_depth="3" />
+
+#summary Issue submission wiki page.
+
+= Frequently Asked Questions =
+
+Browse these [http://code.google.com/p/forgotten-hope-singleplayer/wiki/FrequentlyAskedQuestions frequently asked questions] other users of Forgotten Hope Single Player have already asked.
+
+= Forgotten Hope Single Player Forum =
+
+The FHSP players forum is for discussion of issues related to the playing of the single player and coop games. Anything related to FHSP is appropriate with topics including help on the usage of a feature, bugs, and new features you would like to see.
+
+= Issues =
+
+If you have found an issue, please report it using the issue tracker. Before you report an issue, browse through the [http://code.google.com/p/forgotten-hope-singleplayer/issues/list list of current issues] and see if it has already been reported. If it has not, submit a new issue and give a detailed description of the problem. One of the Forgotten Hope single player developers or a member of the single player community will take a look at it and get back to you.
+
+If the issue is directly related to the functioning of a map then use one of the reporting links below so the issue can be labelled with the name of the map.
+
