@@ -1,6 +1,6 @@
-<wiki:toc max_depth="5" />
-
 #summary Forgotten Hope Single Player Wiki.
+
+<wiki:toc max_depth="5" />
 
 = Introduction =
 
