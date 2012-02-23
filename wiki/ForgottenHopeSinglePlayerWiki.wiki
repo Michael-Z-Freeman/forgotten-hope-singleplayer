@@ -1,0 +1,9 @@
+<wiki:toc max_depth="5" />
+
+#summary Forgotten Hope Single Player Wiki.
+
+= Introduction =
+
+This is the wiki for Forgotten Hope Single Player Wiki. It can be used to document various issues in the tracker or common problems with the AI or AI map design. 
+
+To see al pages on this wiki [Forgotten Hope Single Player Wiki click here.]
