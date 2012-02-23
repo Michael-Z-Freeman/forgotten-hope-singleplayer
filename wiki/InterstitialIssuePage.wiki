@@ -14,7 +14,7 @@ The FHSP players forum is for discussion of issues related to the playing of the
 
 == Report an Issue ==
 
-If you have found an issue, please report it using the issue tracker. Before you report an issue, browse through the [http://code.google.com/p/forgotten-hope-singleplayer/issues/list list of current issues] and see if it has already been reported. If it has not, submit a new issue and give a detailed description of the problem. Provide screenshot attachments if necessary but please keep file size as small as possible. One of the Forgotten Hope single player developers or a member of the single player community will take a look at it and get back to you.
+If you have found an issue, please report it using the issue tracker. Before you report an issue, browse through the [http://code.google.com/p/forgotten-hope-singleplayer/issues/list list of current issues] and see if it has already been reported. If it has not, [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry submit a new issue] and give a detailed description of the problem. Provide screenshot attachments if necessary but please keep file size as small as possible. One of the Forgotten Hope single player developers or a member of the single player community will take a look at it and get back to you.
 
 == Report an Issue with a Specific Map ==
 
