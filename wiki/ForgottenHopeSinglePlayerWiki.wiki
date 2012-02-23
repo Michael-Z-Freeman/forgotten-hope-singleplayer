@@ -5,3 +5,7 @@
 This is the wiki for Forgotten Hope Single Player. It can be used to document various issues in the tracker or common problems with the AI or AI map design. 
 
 To see all pages on this wiki [http://code.google.com/p/forgotten-hope-singleplayer/w/list click here].
+
+= Contributions =
+
+If you would like to contribute then you can add comments at the bottom of each wiki page. Suggestions will be considered for inclusion. If you would like to edit the wiki directly then ask in the [http://fhpubforum.warumdarum.de/index.php?topic=13971.0 issue tracker thread] to be added to the project as a contributer or PM [http://fhpubforum.warumdarum.de/index.php?action=profile;u=84 DJ Barney], [http://fhpubforum.warumdarum.de/index.php?action=profile;u=214 Djinn] or [http://fhpubforum.warumdarum.de/index.php?action=profile;u=3416 Void].
