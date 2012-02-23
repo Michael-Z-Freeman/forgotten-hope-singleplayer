@@ -1,6 +1,6 @@
-<wiki:toc max_depth="5" />
+#summary Issue submission page.
 
-#summary Issue submission wiki page.
+<wiki:toc max_depth="5" />
 
 = Issue Submission Page =
 
