@@ -16,7 +16,7 @@ The FHSP players forum is for discussion of issues related to the playing of the
 
 If you have found an issue, please report it using the issue tracker. Before you report an issue, browse through the [http://code.google.com/p/forgotten-hope-singleplayer/issues/list list of current issues] and see if it has already been reported. If it has not, [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry submit a new issue] and give a detailed description of the problem. Provide screenshot attachments if necessary but please keep file size as small as possible. One of the Forgotten Hope single player developers or a member of the single player community will take a look at it and get back to you.
 
-== Report an Issue with a Specific Map ==
+== Report an Issue with a Specific Official Map ==
 
 If the issue is directly related to the functioning of a map then use one of the reporting links below so the issue can be set with the correct tracking labels.
 
@@ -247,3 +247,15 @@ If the issue is directly related to the functioning of a map then use one of the
 [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-OfficialMap,ComponentMap-Vossenack_32 Vossenack 32]
 
 [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-OfficialMap,ComponentMap-Vossenack_64 Vossenack 64]
+
+== Report an Issue with a Community Map ==
+
+If you have not resolved an issue with a community map by posting on the forums or contacting the author directly then you can [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-CommunityMap submit and issue here] (this link sets the correct labels for the issue). 
+
+Only maps directly related to Forgotten Hope please.
+
+== Report an Issue with a Community Mod ==
+
+If you have not resolved an issue with a community mod by posting on the forums or contacting the author directly then you can [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-CommunityMod submit and issue here] (this link sets the correct labels for the issue).
+
+Only mods directly related to Forgotten Hope please.
