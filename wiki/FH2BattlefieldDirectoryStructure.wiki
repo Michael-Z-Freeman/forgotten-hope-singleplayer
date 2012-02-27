@@ -35,6 +35,8 @@ It's not always obvious where to find the places that FH2 functionality is imple
  * menu_server.zip
  * objects_client.zip
  * objects_server.zip
+   # Kits
+    * Class kit setup
  * objects_statics_client.zip
  * objects_statics_server.zip
  * objects_vehicles_client.zip
