@@ -12,7 +12,9 @@ It's not always obvious where to find the places that FH2 functionality is imple
    # _aibehaviours.ai_, key file
  * binaries\
  * fh2settings\
- * levels\
+ * levels\fhmap\
+   #server.zip
+    * _init.con_, kits and more set here.
  * localization\
  * menu\
  * movies\
