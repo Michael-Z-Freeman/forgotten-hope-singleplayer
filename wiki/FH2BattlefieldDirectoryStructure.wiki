@@ -13,7 +13,7 @@ It's not always obvious where to find the places that FH2 functionality is imple
  * binaries\
  * fh2settings\
  * levels\fhmap\
-   #server.zip
+   # server.zip
     * _init.con_, kits and more set here.
  * localization\
  * menu\
