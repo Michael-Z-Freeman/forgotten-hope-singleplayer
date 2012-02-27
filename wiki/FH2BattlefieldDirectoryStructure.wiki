@@ -9,6 +9,7 @@ It's not always obvious where to find the places that FH2 functionality is imple
 = FH2 Structure Map =
 
  * ai\
+   # _aibehaviours.ai_, key file
  * binaries\
  * fh2settings\
  * levels\
