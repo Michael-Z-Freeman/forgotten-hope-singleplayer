@@ -6,6 +6,30 @@ This is the wiki for Forgotten Hope Single Player. It can be used to document va
 
 To see all pages on this wiki [http://code.google.com/p/forgotten-hope-singleplayer/w/list click here].
 
+= Understanding AI =
+
+(the beginning of a bigger document, should probably be on another page)
+
+The AI has an unwarranted reputation for being "stupid" or driving tanks into walls. Actually the AI system of Battlefield 2 is probably one of the most advanced video game AI systems ever written, _ever_. DICE used the latest robotics and AI research when they wrote Battlefield 1942. The AI in Battlefield 2 is an updated and modified version but operates basically the same as the 42 version did. The AI or "bots" are a hybrid of intelligent [http://en.wikipedia.org/wiki/Fuzzy_agent "fuzzy agents"] or [http://en.wikipedia.org/wiki/Intelligent_agent "intelligent agents"]. More specifically they are [http://en.wikipedia.org/wiki/Distributed_artificial_intelligence "Reactive Agents"].
+
+To make any progress with the internal settings of the AI in Forgotten Hope it's *vital* to understand the nature of it's design otherwise it's just going to be a recipe for frustration. A good starting point is to read the tutorials from the creators of Battlefield AI themselves, DICE.
+
+An Introduction to AI in Battlefield 1942 
+Author: Tobias Karlsson (DICE)
+
+*_"It is crucial to have a basic understanding
+of the inner workings of the bots in order to use them correctly."_*
+
+A Primer on Writing Strategies for the AI of Battlefield 1942
+Author: Tobias Karlsson (DICE)
+
+How to Set Up Vehicles for the AI in Battlefield 1942
+Author: Tobias Karlsson (DICE)
+
+All these documents [http://www.battlefieldsingleplayer.com/files/documents/ea_ai/EA_AI_pdfs.zip can be found here].
+
+The way the AI can be set up to follow strategies has some interesing implications for Forgotten Hope. This means that some of the realistic and historical aspects of FH can be implemented in Single Player/Coop. A well set up Single Player/Coop experience can also be used for training before entering an online multiplayer game.
+
 = Contributions =
 
 If you would like to contribute then you can add comments at the bottom of each wiki page. Suggestions will be considered for inclusion. If you would like to edit the wiki directly then ask in the [http://fhpubforum.warumdarum.de/index.php?topic=13971.0 issue tracker thread] to be added to the project as a contributer or PM [http://fhpubforum.warumdarum.de/index.php?action=profile;u=84 DJ Barney], [http://fhpubforum.warumdarum.de/index.php?action=profile;u=214 Djinn] or [http://fhpubforum.warumdarum.de/index.php?action=profile;u=3416 Void].
