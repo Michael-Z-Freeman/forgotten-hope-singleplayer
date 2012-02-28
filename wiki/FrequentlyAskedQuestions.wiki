@@ -17,9 +17,11 @@ Only when these conditions have been satisfied and the fix has been examined by 
 
 == Q. Why do I get frame rate drops / SP experience is slower than other mods ==
 
-A. Forgotten Hope tends to put more of a load on the system, especially on the larger maps. This is bound to be reflected in AI performance as well. You could try setting BF2 to another core if you have a multi core system (to separate it from system tasks that should run on the first core).
+A. Forgotten Hope tends to put more of a load on the system, especially on the larger maps. This is bound to be reflected in AI performance as well. Make sure you have antialiasing turned OFF in Battlefield 2 and force it on in your video card settings as this can drastically improve performance.  You could also try setting BF2 to another core if you have a multi core system (to separate it from system tasks that should run on the first core).
 
-Further method is to run a BF2 dedicated server in LAN mode "C:\Program Files\EA GAMES\Battlefield 2\BF2ServerLauncher.exe". Then open task manager - processes - right click "bf2_w32ded.exe" and set affinity CPU1 only (or use a dedicated util like Set Affinity). Then run BF2, and do the same in task manager just set it to CPU0 only. Then join local. This may increase performance by quite a bit, since you'll use one CPU core for processing bots, and another for the game.
+On my multi core system (2.66Mhz, 2GB memory) with BF2 running on the second core, with 90 bots and with antialiasing forced in video card settings, there are no visible glitches to the AI with an average framerate of 60fps @ 1440x900. 
+
+A further method is to run a BF2 dedicated server in LAN mode "C:\Program Files\EA GAMES\Battlefield 2\BF2ServerLauncher.exe". Then open task manager - processes - right click "bf2_w32ded.exe" and set affinity CPU1 only (or use a dedicated util like Set Affinity). Then run BF2, and do the same in task manager just set it to CPU0 only. Then join local. This may increase performance by quite a bit, since you'll use one CPU core for processing bots, and another for the game. 
 
 == Q. Why is this issue tracker separate from the official FH2 site ? ==
 
