@@ -6,6 +6,8 @@ This is the wiki for Forgotten Hope Single Player. It can be used to document va
 
 To see all pages on this wiki [http://code.google.com/p/forgotten-hope-singleplayer/w/list click here].
 
+Also see the [http://ifihada.com/~jbp/fh2pub/usermanual/ Forgotten Hope User Manual].
+
 = Understanding AI =
 
 (the beginning of a bigger document, should probably be on another page)
