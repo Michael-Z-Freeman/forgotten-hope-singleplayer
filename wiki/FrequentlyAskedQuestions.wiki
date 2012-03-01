@@ -15,6 +15,10 @@ Actual fixes to issues submitted may become candidates for inclusion in the offi
 
 Only when these conditions have been satisfied and the fix has been examined by official FH2 staff will the fix be considered for inclusion.
 
+== Q. Why can't I set issue labels when I report an issue ?
+
+Although not directly visible some labels can be set through the links on the issue reporting page or by selecting one of the templates. Non-project members not being able to set issue labels is a limitation of the Google Code issue tracker. Google may add this feature in the future as it has already been requested by other projects.
+
 == Q. Why do I get frame rate drops / SP experience is slower than other mods ==
 
 A. Forgotten Hope tends to put more of a load on the system, especially on the larger maps. This is bound to be reflected in AI performance as well. Make sure you have antialiasing turned OFF in Battlefield 2 and force it on in your video card settings as this can drastically improve performance.  You could also try setting BF2 to another core if you have a multi core system (to separate it from system tasks that should run on the first core).
