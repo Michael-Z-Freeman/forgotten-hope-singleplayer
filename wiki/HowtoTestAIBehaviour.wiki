@@ -8,6 +8,10 @@ Because the reactive AI is based on the rules of fuzzy logic agents it is not po
 
 There are some console commands that can make your in game character undetectable to the AI. This assists in observing AI behaviour without your own interaction interfering with observation.
 
+The following custom vehicle could be used to do the same thing in the air (untested).
+
+"mods\fh2\objects_vehicles_server.zip\Vehicles\for_kids\"
+
 = Setting variable in game =
 
 Some commands exist to set variables in game.
