@@ -1,173 +1,378 @@
-Model Name,Country
-CarroM13_40_au\,AU
-CivCoupes\,CIV
-CivTruck\,CIV
-redtractor\,CIV
-rideable_bicycle\,CIV
-Citroen_11cv\,DE
-flak18\,DE
-flak18_fr\,DE
-flak18_pg\,DE
-flak18ns\,DE
-flak18ns_fr\,DE
-flak18ns_pg\,DE
-flak38\,DE
-Flakvierling_Ard\,DE
-Flakvierling38\,DE
-Flakvierling38_ai\,DE
-Flakvierling38_france\,DE
-Fueltruck\,DE
-GPF_155mm\,DE
-Hetzer\,DE
-Hetzer_Win\,DE
-Jagdpanther\,DE
-JagdPanzerIV\,DE
-Kettenkrad\,DE
-Kettenkrad_dak\,DE
-Kettenkrad_fr\,DE
-KubelDAK\,DE
-Kubelwagen\,DE
-Kubelwagen_fr\,DE
-Kubelwagen_win\,DE
-kwk_5cm\,DE
-LeFH18\,DE
-LeFH18_france\,DE
-Marder_I\,DE
-Marder_III\,DE
-Maus\,DE
-Nebelwerfer\,DE
-OpelBlitz_ard\,DE
-OpelBlitz_DAK\,DE
-OpelBlitz_Flak38\,DE
-OpelBlitz_fr\,DE
-OpelBlitz_fr_nocanvas\,DE
-OpelBlitz_fr_slats\,DE
-OpelBlitz_Pan\,DE
-Pak35\,DE
-Pak35_static\,DE
-PaK38\,DE
-Pak38_static\,DE
-PaK40\,DE
-PaK40_static\,DE
-Panther_G_Ard\,DE
-PantherA\,DE
-PantherA_alt\,DE
-PantherA_Late\,DE
-PantherA_Late_alt\,DE
-PantherG\,DE
-Puma\,DE
-PZIIC\,DE
-PZIIF\,DE
-PZIII_N_France\,DE
-PzIIIJeDAK\,DE
-PzIIIJlDAK\,DE
-PZIIINdak\,DE
-PZIVD_Greece\,DE
-PZIVD_NA\,DE
-PZIVF1\,DE
-PZIVF2\,DE
-PZIVH\,DE
-PZIVH_811\,DE
-PZIVH_Ard\,DE
-Schwimmwagen\,DE
-sd_ah_51_Flak38\,DE
-sdkfz222\,DE
-sdkfz231_1\,DE
-sdkfz250_3\,DE
-sdkfz251_1\,DE
-sdkfz251_10\,DE
-sdkfz251_d\,DE
-sdkfz251_d_ard\,DE
-sdkfz251_d_sf\,DE
-sdkfz251_d_win\,DE
-sdkfz7\,DE
-stug_IV\,DE
-stug40\,DE
-stug40_g\,DE
-stug40r\,DE
-Tiger_DAK\,DE
-Tiger_II_Prod\,DE
-Tiger_late\,DE
-tiger_late_132\,DE
-tiger_late_222\,DE
-VWtyp82\,DE
-wespe\,DE
-Wirbelwind\,DE
-wurfrahmen\,DE
-,
-25Pdr\,GB
-25Pdr_MkIV\,GB
-6Pdr\,GB
-6Pdr_MKIV\,GB
-6Pdr_MKIV_static\,GB
-6Pdr_static\,GB
-Achilles_IIC\,GB
-AECDorchester\,GB
-Bedford_QLT\,GB
-BedfordOYD\,GB
-BedfordOYD_france\,GB
-Bofors40mm\,GB
-Bofors40mm_ai\,GB
-Bofors40mm_eu\,GB
-Chevy30cwt\,GB
-ChurchillmKIV\,GB
-Cromwell\,GB
-Cromwell_IrishGuard\,GB
-CruiserIV\,GB
-CrusaderMK1Early\,GB
-CrusaderMK1Late\,GB
-crusadermk3\,GB
-crusadermk3_AA\,GB
-DaimlerMK1\,GB
-Deacon\,GB
-dingo_na\,GB
-M3Grant\,GB
-M3StuartHoney\,GB
-m4a1_eu_brit\,GB
-m5a1_halftrack\,GB
-markvi\,GB
-MarmonHerringtonMK3a\,GB
-MatildaII\,GB
-sherman_v\,GB
-Universalcarrier\,GB
-Universalcarrier_france\,GB
-Universalcarrier_WASP\,GB
-valentineII\,GB
-WillysMB\,GB
-WillysMB_france\,GB
-WillysMBSAS\,GB
-cannone_da_47_32\,IT
-CarroM13_40\,IT
-fiat626\,IT
-FiatL6_40\,IT
-sahariana\,IT
-SemoventeL40\,IT
-57mm_M1_ATgun\,US
-57mm_m1_ATgun_static\,US
-57mm_M1_ATgun_win\,US
-76mm_M5_ATgun\,US
-76mm_M5_ATgun_Static\,US
-FordGPA\,US
-GMC\,US
-M10\,US
-M16_MGMC\,US
-M18_Hellcat\,US
-M24_Chaffee\,US
-M26_Pershing\,US
-M2A1_Howitzer_105mm\,US
-m36\,US
-M3A1\,US
-M4A1\,US
-M4A1_76mm\,US
-M4A1_eu\,US
-M4A1_Turret_Gunner\,US
-M4a3\,US
-M4a3E2\,US
-M51\,US
-M5A1_Stuart\,US
-M5A1_Stuart_Recon\,US
-M8_greyhound\,US
-M8_greyhoundNF\,US
-WillysMB_rocket\,US
-WillysMB_us\,US
-WillysMB_us_alt\,US
+Model Name,Asset Type,Country
+CarroM13_40_au\,Vehicle Land,AU
+CivCoupes\,Vehicle Land,CIV
+CivTruck\,Vehicle Land,CIV
+redtractor\,Vehicle Land,CIV
+rideable_bicycle\,Vehicle Land,CIV
+Citroen_11cv\,Vehicle Land,DE
+flak18\,Vehicle Land,DE
+flak18_fr\,Vehicle Land,DE
+flak18_pg\,Vehicle Land,DE
+flak18ns\,Vehicle Land,DE
+flak18ns_fr\,Vehicle Land,DE
+flak18ns_pg\,Vehicle Land,DE
+flak38\,Vehicle Land,DE
+Flakvierling_Ard\,Vehicle Land,DE
+Flakvierling38\,Vehicle Land,DE
+Flakvierling38_ai\,Vehicle Land,DE
+Flakvierling38_france\,Vehicle Land,DE
+Fueltruck\,Vehicle Land,DE
+GPF_155mm\,Vehicle Land,DE
+Hetzer\,Vehicle Land,DE
+Hetzer_Win\,Vehicle Land,DE
+Jagdpanther\,Vehicle Land,DE
+JagdPanzerIV\,Vehicle Land,DE
+Kettenkrad\,Vehicle Land,DE
+Kettenkrad_dak\,Vehicle Land,DE
+Kettenkrad_fr\,Vehicle Land,DE
+KubelDAK\,Vehicle Land,DE
+Kubelwagen\,Vehicle Land,DE
+Kubelwagen_fr\,Vehicle Land,DE
+Kubelwagen_win\,Vehicle Land,DE
+kwk_5cm\,Vehicle Land,DE
+LeFH18\,Vehicle Land,DE
+LeFH18_france\,Vehicle Land,DE
+Marder_I\,Vehicle Land,DE
+Marder_III\,Vehicle Land,DE
+Maus\,Vehicle Land,DE
+Nebelwerfer\,Vehicle Land,DE
+OpelBlitz_ard\,Vehicle Land,DE
+OpelBlitz_DAK\,Vehicle Land,DE
+OpelBlitz_Flak38\,Vehicle Land,DE
+OpelBlitz_fr\,Vehicle Land,DE
+OpelBlitz_fr_nocanvas\,Vehicle Land,DE
+OpelBlitz_fr_slats\,Vehicle Land,DE
+OpelBlitz_Pan\,Vehicle Land,DE
+Pak35\,Vehicle Land,DE
+Pak35_static\,Vehicle Land,DE
+PaK38\,Vehicle Land,DE
+Pak38_static\,Vehicle Land,DE
+PaK40\,Vehicle Land,DE
+PaK40_static\,Vehicle Land,DE
+Panther_G_Ard\,Vehicle Land,DE
+PantherA\,Vehicle Land,DE
+PantherA_alt\,Vehicle Land,DE
+PantherA_Late\,Vehicle Land,DE
+PantherA_Late_alt\,Vehicle Land,DE
+PantherG\,Vehicle Land,DE
+Puma\,Vehicle Land,DE
+PZIIC\,Vehicle Land,DE
+PZIIF\,Vehicle Land,DE
+PZIII_N_France\,Vehicle Land,DE
+PzIIIJeDAK\,Vehicle Land,DE
+PzIIIJlDAK\,Vehicle Land,DE
+PZIIINdak\,Vehicle Land,DE
+PZIVD_Greece\,Vehicle Land,DE
+PZIVD_NA\,Vehicle Land,DE
+PZIVF1\,Vehicle Land,DE
+PZIVF2\,Vehicle Land,DE
+PZIVH\,Vehicle Land,DE
+PZIVH_811\,Vehicle Land,DE
+PZIVH_Ard\,Vehicle Land,DE
+Schwimmwagen\,Vehicle Land,DE
+sd_ah_51_Flak38\,Vehicle Land,DE
+sdkfz222\,Vehicle Land,DE
+sdkfz231_1\,Vehicle Land,DE
+sdkfz250_3\,Vehicle Land,DE
+sdkfz251_1\,Vehicle Land,DE
+sdkfz251_10\,Vehicle Land,DE
+sdkfz251_d\,Vehicle Land,DE
+sdkfz251_d_ard\,Vehicle Land,DE
+sdkfz251_d_sf\,Vehicle Land,DE
+sdkfz251_d_win\,Vehicle Land,DE
+sdkfz7\,Vehicle Land,DE
+stug_IV\,Vehicle Land,DE
+stug40\,Vehicle Land,DE
+stug40_g\,Vehicle Land,DE
+stug40r\,Vehicle Land,DE
+Tiger_DAK\,Vehicle Land,DE
+Tiger_II_Prod\,Vehicle Land,DE
+Tiger_late\,Vehicle Land,DE
+tiger_late_132\,Vehicle Land,DE
+tiger_late_222\,Vehicle Land,DE
+VWtyp82\,Vehicle Land,DE
+wespe\,Vehicle Land,DE
+Wirbelwind\,Vehicle Land,DE
+wurfrahmen\,Vehicle Land,DE
+25Pdr\,Vehicle Land,GB
+25Pdr_MkIV\,Vehicle Land,GB
+6Pdr\,Vehicle Land,GB
+6Pdr_MKIV\,Vehicle Land,GB
+6Pdr_MKIV_static\,Vehicle Land,GB
+6Pdr_static\,Vehicle Land,GB
+Achilles_IIC\,Vehicle Land,GB
+AECDorchester\,Vehicle Land,GB
+Bedford_QLT\,Vehicle Land,GB
+BedfordOYD\,Vehicle Land,GB
+BedfordOYD_france\,Vehicle Land,GB
+Bofors40mm\,Vehicle Land,GB
+Bofors40mm_ai\,Vehicle Land,GB
+Bofors40mm_eu\,Vehicle Land,GB
+Chevy30cwt\,Vehicle Land,GB
+ChurchillmKIV\,Vehicle Land,GB
+Cromwell\,Vehicle Land,GB
+Cromwell_IrishGuard\,Vehicle Land,GB
+CruiserIV\,Vehicle Land,GB
+CrusaderMK1Early\,Vehicle Land,GB
+CrusaderMK1Late\,Vehicle Land,GB
+crusadermk3\,Vehicle Land,GB
+crusadermk3_AA\,Vehicle Land,GB
+DaimlerMK1\,Vehicle Land,GB
+Deacon\,Vehicle Land,GB
+dingo_na\,Vehicle Land,GB
+M3Grant\,Vehicle Land,GB
+M3StuartHoney\,Vehicle Land,GB
+m4a1_eu_brit\,Vehicle Land,GB
+m5a1_halftrack\,Vehicle Land,GB
+markvi\,Vehicle Land,GB
+MarmonHerringtonMK3a\,Vehicle Land,GB
+MatildaII\,Vehicle Land,GB
+sherman_v\,Vehicle Land,GB
+Universalcarrier\,Vehicle Land,GB
+Universalcarrier_france\,Vehicle Land,GB
+Universalcarrier_WASP\,Vehicle Land,GB
+valentineII\,Vehicle Land,GB
+WillysMB\,Vehicle Land,GB
+WillysMB_france\,Vehicle Land,GB
+WillysMBSAS\,Vehicle Land,GB
+cannone_da_47_32\,Vehicle Land,IT
+CarroM13_40\,Vehicle Land,IT
+fiat626\,Vehicle Land,IT
+FiatL6_40\,Vehicle Land,IT
+sahariana\,Vehicle Land,IT
+SemoventeL40\,Vehicle Land,IT
+57mm_M1_ATgun\,Vehicle Land,US
+57mm_m1_ATgun_static\,Vehicle Land,US
+57mm_M1_ATgun_win\,Vehicle Land,US
+76mm_M5_ATgun\,Vehicle Land,US
+76mm_M5_ATgun_Static\,Vehicle Land,US
+FordGPA\,Vehicle Land,US
+GMC\,Vehicle Land,US
+M10\,Vehicle Land,US
+M16_MGMC\,Vehicle Land,US
+M18_Hellcat\,Vehicle Land,US
+M24_Chaffee\,Vehicle Land,US
+M26_Pershing\,Vehicle Land,US
+M2A1_Howitzer_105mm\,Vehicle Land,US
+m36\,Vehicle Land,US
+M3A1\,Vehicle Land,US
+M4A1\,Vehicle Land,US
+M4A1_76mm\,Vehicle Land,US
+M4A1_eu\,Vehicle Land,US
+M4A1_Turret_Gunner\,Vehicle Land,US
+M4a3\,Vehicle Land,US
+M4a3E2\,Vehicle Land,US
+M51\,Vehicle Land,US
+M5A1_Stuart\,Vehicle Land,US
+M5A1_Stuart_Recon\,Vehicle Land,US
+M8_greyhound\,Vehicle Land,US
+M8_greyhoundNF\,Vehicle Land,US
+WillysMB_rocket\,Vehicle Land,US
+WillysMB_us\,Vehicle Land,US
+WillysMB_us_alt\,Vehicle Land,US
+SubVII\,Vehicles Sea,DE
+Weapons\,Vehicles Sea,DE
+Audacity\,Vehicles Sea,GB
+FlowerClass\,Vehicles Sea,GB
+LandingCraftAssault\,Vehicles Sea,GB
+LCT_MK5\,Vehicles Sea,GB
+LCT_MK5_US\,Vehicles Sea,US
+LCVP\,Vehicles Sea,US
+GB04in45BL\,Weapon Sea,GB
+GB04in45BLMarkIX\,Weapon Sea,GB
+GB04pdrQFMarkVIII\,Weapon Sea,GB
+DRG_GW_O_Halle1\,Vehicle Train,DE
+WR360C14\,Vehicle Train,DE
+BF109E7_trop\,Vehicle Air,DE
+BF109E7_tropalt\,Vehicle Air,DE
+BF109F4\,Vehicle Air,DE
+FW190\,Vehicle Air,DE
+FW190_Alt\,Vehicle Air,DE
+ju52\,Vehicle Air,DE
+Ju87b2\,Vehicle Air,DE
+RZ20Chute\,Vehicle Air,DE
+storch_france\,Vehicle Air,DE
+storch_trop\,Vehicle Air,DE
+BeaufighterMK1\,Vehicle Air,GB
+Horsa_Glider\,Vehicle Air,GB
+horsa_glider_flyover\,Vehicle Air,GB
+HurricaneMKII\,Vehicle Air,GB
+HurricaneMKIID\,Vehicle Air,GB
+PiperCub_GB\,Vehicle Air,GB
+SpitfireMKI\,Vehicle Air,GB
+SpitfireMKV\,Vehicle Air,GB
+SpitfireMKVb\,Vehicle Air,GB
+Swordfish\,Vehicle Air,GB
+Typhoon_mk1b_late\,Vehicle Air,GB
+Typhoon_mk1b_late_flyover\,Vehicle Air,GB
+X9Chute\,Vehicle Air,GB
+mc202_objective\,Vehicle Air,IT
+AIX_P51D\,Vehicle Air,US
+C47\,Vehicle Air,US
+P47_D\,Vehicle Air,US
+P51D_Flyover\,Vehicle Air,US
+P51D_Ramelle_Flyover\,Vehicle Air,US
+PiperCub_US\,Vehicle Air,US
+usair_c47_damaged_flyover\,Vehicle Air,US
+usair_c47_flyover\,Vehicle Air,US
+Coaxial_MG34\,Weapon Armament,DE
+Coaxial_MG34x25\,Weapon Armament,DE
+Coaxial_MG42\,Weapon Armament,DE
+mg15\,Weapon Armament,DE
+mg15_air\,Weapon Armament,DE
+mg34\,Weapon Armament,DE
+mg34m\,Weapon Armament,DE
+mg42\,Weapon Armament,DE
+bren\,Weapon Armament,GB
+Coaxial_Besa\,Weapon Armament,GB
+lewis\,Weapon Armament,GB
+Vickers_K\,Weapon Armament,GB
+vickers_k_single\,Weapon Armament,GB
+Vickers303\,Weapon Armament,GB
+BredaM37\,Weapon Armament,IT
+Coaxial_Breda_Model38\,Weapon Armament,IT
+Coaxial_Breda_Model38Twin\,Weapon Armament,IT
+30cal\,Weapon Armament,US
+30cal_ammo\,Weapon Armament,US
+30cal_notri\,Weapon Armament,US
+Coaxial_Cal30\,Weapon Armament,US
+m1919a6_armament\,Weapon Armament,US
+artillerycamera_de\,Weapon Common,
+artillerycamera_gb\,Weapon Common,
+projectiles\,Weapon Common,
+RightClickCameraSwitch\,Weapon Common,
+Strap01\,Weapon Common,
+TargetObjects\,Weapon Common,
+Erdziellafette\,Weapon Emplaced,DE
+mg15_bipod\,Weapon Emplaced,DE
+mg34_bipod\,Weapon Emplaced,DE
+mg34_bipod_ai\,Weapon Emplaced,DE
+mg42_bipod\,Weapon Emplaced,DE
+mg42_bipod_ai\,Weapon Emplaced,DE
+sGWR34\,Weapon Emplaced,DE
+sGWR34_france\,Weapon Emplaced,DE
+Zwillingssockel36\,Weapon Emplaced,DE
+2Pdr\,Weapon Emplaced,GB
+3inchmortar\,Weapon Emplaced,GB
+brenaa\,Weapon Emplaced,GB
+lewis_bipod\,Weapon Emplaced,GB
+lewis_bipod_ai\,Weapon Emplaced,GB
+vickers303_tripod\,Weapon Emplaced,GB
+vickers303_tripod_dep\,Weapon Emplaced,GB
+bredam37_bipod\,Weapon Emplaced,IT
+bredam37_tripod_dep\,Weapon Emplaced,IT
+81mm_Mortar_M1\,Weapon Emplaced,US
+M1919A4\,Weapon Emplaced,US
+M1919A4notri\,Weapon Emplaced,US
+m1919a6_emplaced\,Weapon Emplaced,US
+Spotlight\,Weapon Emplaced Common,
+03a3\,Weapon Handheld,
+ammokit\,Weapon Handheld,
+bar18a2\,Weapon Handheld,
+BazookaM1A1\,Weapon Handheld,
+BazookaM9\,Weapon Handheld,
+Beretta34\,Weapon Handheld,
+Beretta38\,Weapon Handheld,
+bhipo\,Weapon Handheld,
+Boys\,Weapon Handheld,
+breda30\,Weapon Handheld,
+BrenMK1\,Weapon Handheld,
+BrenMK1assault\,Weapon Handheld,
+BritishParachuteLauncher\,Weapon Handheld,
+c4_explosives\,Weapon Handheld,
+Carlisle_Dressing\,Weapon Handheld,
+Colt1911\,Weapon Handheld,
+Colt1917\,Weapon Handheld,
+comdo_grapplinghook\,Weapon Handheld,
+deployables\,Weapon Handheld,
+Dienstglas\,Weapon Handheld,
+Dressing_DE\,Weapon Handheld,
+Dressing_GB\,Weapon Handheld,
+Dressing_IT\,Weapon Handheld,
+explosives\,Weapon Handheld,
+farmer\,Weapon Handheld,
+FG42\,Weapon Handheld,
+Fists\,Weapon Handheld,
+FlamethrowerM1A1\,Weapon Handheld,
+g43\,Weapon Handheld,
+g43_zf\,Weapon Handheld,
+German_Shovel\,Weapon Handheld,
+GermanParachuteLauncher\,Weapon Handheld,
+GoldIngot\,Weapon Handheld,
+inghipo\,Weapon Handheld,
+K98\,Weapon Handheld,
+k98bayonet\,Weapon Handheld,
+k98grenade\,Weapon Handheld,
+k98h\,Weapon Handheld,
+k98hbayonet\,Weapon Handheld,
+k98hgrenade\,Weapon Handheld,
+k98hHEATgrenade\,Weapon Handheld,
+k98hscope\,Weapon Handheld,
+k98hzf41\,Weapon Handheld,
+k98scope\,Weapon Handheld,
+knives\,Weapon Handheld,
+LewisHandheld\,Weapon Handheld,
+M1903a1\,Weapon Handheld,
+M1914EnfieldScope\,Weapon Handheld,
+M1917Enfield\,Weapon Handheld,
+M1917EnfieldGrenade\,Weapon Handheld,
+M1919A6\,Weapon Handheld,
+m1a1carbine\,Weapon Handheld,
+m1carbine\,Weapon Handheld,
+m1garand\,Weapon Handheld,
+m1garandbayonet\,Weapon Handheld,
+m1garandfrag\,Weapon Handheld,
+m1garandheat\,Weapon Handheld,
+m3_knife\,Weapon Handheld,
+m30lwdrilling\,Weapon Handheld,
+m30lwdrillingRifle\,Weapon Handheld,
+m3binoculars\,Weapon Handheld,
+m3greasegun\,Weapon Handheld,
+m91carcano\,Weapon Handheld,
+m91carcanobayonet\,Weapon Handheld,
+m91carcanocarbine\,Weapon Handheld,
+m91carcanocarbinebayonet\,Weapon Handheld,
+MarkVIMine\,Weapon Handheld,
+medikit\,Weapon Handheld,
+mg34bipod\,Weapon Handheld,
+mg42bipod\,Weapon Handheld,
+MineDetector\,Weapon Handheld,
+Mineflag\,Weapon Handheld,
+MP40\,Weapon Handheld,
+NebelEihandgranate42\,Weapon Handheld,
+No1SMLE\,Weapon Handheld,
+No1SMLEBayonet\,Weapon Handheld,
+No1SMLEGrenade\,Weapon Handheld,
+No3Mk1Very\,Weapon Handheld,
+No4\,Weapon Handheld,
+no4bayonet\,Weapon Handheld,
+no4grenade\,Weapon Handheld,
+no4millsgrenade\,Weapon Handheld,
+no4scope\,Weapon Handheld,
+P08\,Weapon Handheld,
+Panzerfaust100m\,Weapon Handheld,
+Panzerfaust30m\,Weapon Handheld,
+Panzerfaust60m\,Weapon Handheld,
+panzerschreck\,Weapon Handheld,
+piat\,Weapon Handheld,
+PZB39\,Weapon Handheld,
+reloadammokit\,Weapon Handheld,
+sasrif_teargas\,Weapon Handheld,
+sauer38h\,Weapon Handheld,
+springfield03a4scope\,Weapon Handheld,
+stenmk2\,Weapon Handheld,
+stenmk2Silenced\,Weapon Handheld,
+StG44\,Weapon Handheld,
+StG44_ZF\,Weapon Handheld,
+supply_crate\,Weapon Handheld,
+thompsonm1928\,Weapon Handheld,
+thompsonm1928s\,Weapon Handheld,
+thompsonm1a1\,Weapon Handheld,
+vengeur_de_1870\,Weapon Handheld,
+WaltherP38\,Weapon Handheld,
+WebleyMk6\,Weapon Handheld,
+winchester\,Weapon Handheld,
+wrench\,Weapon Handheld,
+zb26\,Weapon Handheld,
+HMG_M2HB\,Weapon Stationary,
+hmg_m2hb_ammobox\,Weapon Stationary,
