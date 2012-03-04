@@ -1,0 +1,41 @@
+#summary How to properly test the AI behaviour.
+
+= Introduction =
+
+Because the reactive AI is based on the rules of fuzzy logic agents it is not possible to do tests that always have a consistent answer to them. However there are a few procedures that can be used.
+
+= Testing in game =
+
+There are some console commands that can make your in game character undetectable to the AI. This assists in observing AI behaviour without your own interaction interfering with observation.
+
+= Setting variable in game =
+
+Some commands exist to set variables in game.
+
+Settingsmanager Commands
+
+These commands set a range of variables. E.g. SettingsManager.boolSet GSUseObjectCache 1. The command used must match the type of variable (e.g. .boolset for Boolean variables, .IntSet for variables requiring integer input, etc.)
+
+SettingsManager.stringSet -
+
+SettingsManager.boolSet -
+
+SettingsManager.IntSet -
+
+SettingsManager.floatSet -
+
+SettingsManager.u32Set -
+
+SettingsManager.stringGet -
+
+SettingsManager.boolGet -
+
+SettingsManager.intGet -
+
+SettingsManager.floatGet -
+
+SettingsManager.U32Get - 
+
+( [http://www.tweakguides.com/BF2_8.html Source] )
+
+aibehaviours.ai uses float values so some of them should be settable in game without having to restart every time.
