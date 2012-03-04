@@ -14,6 +14,7 @@ Some commands exist to set variables in game.
 
 Settingsmanager Commands
 
+{{{
 These commands set a range of variables. E.g. SettingsManager.boolSet GSUseObjectCache 1. The command used must match the type of variable (e.g. .boolset for Boolean variables, .IntSet for variables requiring integer input, etc.)
 
 SettingsManager.stringSet -
@@ -35,6 +36,7 @@ SettingsManager.intGet -
 SettingsManager.floatGet -
 
 SettingsManager.U32Get - 
+}}}
 
 ( [http://www.tweakguides.com/BF2_8.html Source] )
 
