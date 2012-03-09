@@ -39,6 +39,8 @@ It's not always obvious where to find the places that FH2 functionality is imple
  * objects_server.zip
    # Kits
     * Class kit setup
+   # Kits/ai
+    * _Objects.ai_, kit strengths.
  * objects_statics_client.zip
  * objects_statics_server.zip
  * objects_vehicles_client.zip
