@@ -24,7 +24,7 @@ If you have found an issue, please report it using the issue tracker. Before you
 
 == Issue Labels ==
 
-If the issue is directly related to the functioning of a map then set the appropriate labels. Use one of the reporting links below to automatically set the correct label for a map.
+If the issue is directly related to the functioning of a map then set the appropriate labels. Use one of the reporting links below to automatically set the correct label for a [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-CommunityMap community map], or a [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-CommunityMod community mod]. You can also use the links below to set the correct label for each map.
 
 [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-OfficialMap,ComponentMap-Alam_Halfa_16 Alam Halfa 16]
 
@@ -253,15 +253,3 @@ If the issue is directly related to the functioning of a map then set the approp
 [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-OfficialMap,ComponentMap-Vossenack_32 Vossenack 32]
 
 [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-OfficialMap,ComponentMap-Vossenack_64 Vossenack 64]
-
-== Report an Issue with a Community Map ==
-
-If you have not resolved an issue with a community map by posting on the forums or contacting the author directly then you can [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-CommunityMap submit and issue here] (this link sets the correct labels for the issue). 
-
-Only maps directly related to Forgotten Hope please.
-
-== Report an Issue with a Community Mod ==
-
-If you have not resolved an issue with a community mod by posting on the forums or contacting the author directly then you can [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-CommunityMod submit and issue here] (this link sets the correct labels for the issue).
-
-Only mods directly related to Forgotten Hope please.
