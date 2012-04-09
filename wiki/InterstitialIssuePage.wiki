@@ -12,7 +12,7 @@ Browse these [http://code.google.com/p/forgotten-hope-singleplayer/wiki/Frequent
 
 == Forgotten Hope Single Player Forum ==
 
-The FHSP players forum is for discussion of issues related to the playing of the single player and coop games. Anything related to FHSP is appropriate with topics including help on the usage of a feature, bugs, and new features you would like to see.
+The [http://fhpubforum.warumdarum.de/index.php?board=63.0 Forgotten Hope single players forum] is for discussion of issues related to the playing of the single player and coop games. Anything related to FHSP is appropriate with topics including help on the usage of a feature, bugs, and new features you would like to see.
 
 == List Issues ==
 
@@ -22,9 +22,9 @@ The FHSP players forum is for discussion of issues related to the playing of the
 
 If you have found an issue, please report it using the issue tracker. Before you report an issue, browse through the [http://code.google.com/p/forgotten-hope-singleplayer/issues/list list of current issues] and see if it has already been reported. If it has not, [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry submit a new issue] and give a detailed description of the problem. Provide screenshot attachments if necessary but please keep file size as small as possible. One of the Forgotten Hope single player developers or a member of the single player community will take a look at it and get back to you.
 
-== Report an Issue with an Official Map ==
+== Issue Labels ==
 
-If the issue is directly related to the functioning of a map then use one of the reporting links below so the issue can be set with the correct tracking labels.
+If the issue is directly related to the functioning of a map then set the appropriate labels. Use one of the reporting links below to automatically set the correct label for a map.
 
 [http://code.google.com/p/forgotten-hope-singleplayer/issues/entry?labels=Type-Defect,Priority-Medium,ComponentType-OfficialMap,ComponentMap-Alam_Halfa_16 Alam Halfa 16]
 
