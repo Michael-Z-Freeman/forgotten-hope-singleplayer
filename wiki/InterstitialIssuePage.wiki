@@ -1,5 +1,7 @@
 #summary Issue submission page.
 
+[http://code.google.com/p/forgotten-hope-singleplayerwiki/InterstitialIssuePage?tm=3#Report_an_Issue http://forgotten-hope-singleplayer.googlecode.com/svn/wiki/images/report-issue.gif]
+
 <wiki:toc max_depth="5" />
 
 = Issue Submission Page =
