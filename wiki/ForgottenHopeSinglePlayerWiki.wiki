@@ -30,7 +30,13 @@ Author: Tobias Karlsson (DICE)
 
 All these documents [http://www.battlefieldsingleplayer.com/files/documents/ea_ai/EA_AI_pdfs.zip can be found here].
 
-The way the AI can be set up to follow strategies has some interesing implications for Forgotten Hope. This means that some of the realistic and historical aspects of FH can be implemented in Single Player/Coop. A well set up Single Player/Coop experience can also be used for training before entering an online multiplayer game.
+The way the AI can be set up to follow strategies has some interesting implications for Forgotten Hope. This means that some of the realistic and historical aspects of FH can be implemented in Single Player/Coop. A well set up Single Player/Coop experience can also be used for training before entering an online multiplayer game.
+
+== Using the Power of Python (aiFixups.py)==
+
+By using the power of Python many thorny development problems can be solved that can't be fixed by manipulating .con setting files. Python can check particular settings in .con files, react according to those settings and even make new settings for game assets. The Forgotten Hope 2 file for doing this is located here ...
+
+"mods\fh2\python\game\plugins\aiFixups.py" 
 
 = Contributions =
 
