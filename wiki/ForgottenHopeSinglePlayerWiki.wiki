@@ -36,7 +36,9 @@ The way the AI can be set up to follow strategies has some interesting implicati
 
 By using the power of Python many thorny development problems can be solved that can't be fixed by manipulating .con setting files. Python can check particular settings in .con files, react according to those settings and even make new settings for game assets. The Forgotten Hope 2 file for doing this is located here ...
 
-"mods\fh2\python\game\plugins\aiFixups.py" 
+"mods\fh2\python\game\plugins\aiFixups.py"
+
+Also see [http://www.tacticalgamer.com/wiki/index.php/Official_BF2_Python_Doc Official BF2 Python Doc] and [http://wiki.igd-studios.co.uk/index.php/Main_Page Refractor 2 Technical Information and Modding Wiki].
 
 = Contributions =
 
