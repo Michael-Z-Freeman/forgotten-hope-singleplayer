@@ -1,0 +1,1 @@
+Please consult the [official Forgotten Hope mod download page](http://forgottenhope.warumdarum.de/main.php?module=downloads). For community enhancements to single player game play see the [single player Forgotten Hope forum section](http://fhpubforum.warumdarum.de/index.php?board=63.0).

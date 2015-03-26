@@ -1,0 +1,32 @@
+
+
+# Frequently Asked Questions #
+
+This page is an FAQ for CooP and Single Player issues. For general Forgotten Hope FAQ [see this page](http://forgottenhope.warumdarum.de/main.php?module=faq).
+
+## Q. Will my fix/issue be included in future releases and/or patches of the official FH2 mod ? ##
+
+Actual fixes to issues submitted may become candidates for inclusion in the official FH2 mod. But ...
+  * Work must be based on an unmodified official FH2 release (apart from whatever fix is being submitted).
+  * It must be recorded what has been changed.
+  * It must be recorded _why_ it has been changed.
+  * Document any MP side effects.
+  * Record anything else that could help in the examination of a fix.
+
+Only when these conditions have been satisfied and the fix has been examined by official FH2 staff will the fix be considered for inclusion.
+
+== Q. Why can't I set issue labels when I report an issue ?
+
+Although not directly visible some labels can be set through the links on the issue reporting page or by selecting one of the templates. Non-project members not being able to set issue labels is a limitation of the Google Code issue tracker. Google may add this feature in the future as it has already been requested by other projects.
+
+## Q. Why do I get frame rate drops / SP experience is slower than other mods ##
+
+A. Forgotten Hope tends to put more of a load on the system, especially on the larger maps. This is bound to be reflected in AI performance as well. Make sure you have antialiasing turned OFF in Battlefield 2 and force it on in your video card settings as this can drastically improve performance.  You could also try setting BF2 to another core if you have a multi core system (to separate it from system tasks that should run on the first core).
+
+On my multi core system (2.66Mhz, 2GB memory) with BF2 running on the second core, with 90 bots and with antialiasing forced in video card settings, there are no visible glitches to the AI with an average framerate of 60fps @ 1440x900.
+
+A further method is to run a BF2 dedicated server in LAN mode "C:\Program Files\EA GAMES\Battlefield 2\BF2ServerLauncher.exe". Then open task manager - processes - right click "bf2\_w32ded.exe" and set affinity CPU1 only (or use a dedicated util like Set Affinity). Then run BF2, and do the same in task manager just set it to CPU0 only. Then join local. This may increase performance by quite a bit, since you'll use one CPU core for processing bots, and another for the game.
+
+## Q. Why is this issue tracker separate from the official FH2 site ? ##
+
+There are historical reasons for this. Single Player (SP) development has been carried out by official FH staff and the mod is better supported for SP than many other mods. However a community sprung up independently to provide further development. This tracker was set up to support that effort, originally with no official endorsement from the FH2 team. However now it is possible to have contributions submitted here for considerarion for inclusion in official FH2 releases, with some caveats ... see [Q.\_Will\_my\_fix/issue\_be\_included\_in\_future\_releases\_and/or\_patch](http://code.google.com/p/forgotten-hope-singleplayer/wiki/FrequentlyAskedQuestions#Q._Will_my_fix/issue_be_included_in_future_releases_and/or_patch).

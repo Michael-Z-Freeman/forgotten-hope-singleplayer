@@ -1,0 +1,45 @@
+
+
+# Introduction #
+
+This is the wiki for Forgotten Hope Single Player. It can be used to document various issues in the tracker or common problems with the AI or AI map design.
+
+To see all pages on this wiki [click here](http://code.google.com/p/forgotten-hope-singleplayer/w/list).
+
+Also see the [Forgotten Hope User Manual](http://ifihada.com/~jbp/fh2pub/usermanual/).
+
+# Understanding AI #
+
+(the beginning of a bigger document, should probably be on another page)
+
+The AI has an unwarranted reputation for being "stupid" or driving tanks into walls. Actually the AI system of Battlefield 2 is probably one of the most advanced video game AI systems ever written, _ever_. DICE used the latest robotics and AI research when they wrote Battlefield 1942. The AI in Battlefield 2 is an updated and modified version but operates basically the same as the 42 version did. The AI or "bots" are a hybrid of intelligent ["fuzzy agents"](http://en.wikipedia.org/wiki/Fuzzy_agent) or ["intelligent agents"](http://en.wikipedia.org/wiki/Intelligent_agent). More specifically they are ["Reactive Agents"](http://en.wikipedia.org/wiki/Distributed_artificial_intelligence).
+
+To make any progress with the internal settings of the AI in Forgotten Hope it's **vital** to understand the nature of it's design otherwise it's just going to be a recipe for frustration. A good starting point is to read the tutorials from the creators of Battlefield AI themselves, DICE.
+
+An Introduction to AI in Battlefield 1942
+Author: Tobias Karlsson (DICE)
+
+**_"It is crucial to have a basic understanding
+of the inner workings of the bots in order to use them correctly."_**
+
+A Primer on Writing Strategies for the AI of Battlefield 1942
+Author: Tobias Karlsson (DICE)
+
+How to Set Up Vehicles for the AI in Battlefield 1942
+Author: Tobias Karlsson (DICE)
+
+All these documents [can be found here](http://www.battlefieldsingleplayer.com/files/documents/ea_ai/EA_AI_pdfs.zip).
+
+The way the AI can be set up to follow strategies has some interesting implications for Forgotten Hope. This means that some of the realistic and historical aspects of FH can be implemented in Single Player/Coop. A well set up Single Player/Coop experience can also be used for training before entering an online multiplayer game.
+
+## Using the Power of Python (aiFixups.py) ##
+
+By using the power of Python many thorny development problems can be solved that can't be fixed by manipulating .con setting files. Python can check particular settings in .con files, react according to those settings and even make new settings for game assets. The Forgotten Hope 2 file for doing this is located here ...
+
+"mods\fh2\python\game\plugins\aiFixups.py"
+
+Also see [Official BF2 Python Doc](http://www.tacticalgamer.com/wiki/index.php/Official_BF2_Python_Doc) and [Refractor 2 Technical Information and Modding Wiki](http://wiki.igd-studios.co.uk/index.php/Main_Page).
+
+# Contributions #
+
+If you would like to contribute then you can add comments at the bottom of each wiki page. Suggestions will be considered for inclusion. If you would like to edit the wiki directly then ask in the [issue tracker thread](http://fhpubforum.warumdarum.de/index.php?topic=13971.0) to be added to the project as a contributer or PM [DJ Barney](http://fhpubforum.warumdarum.de/index.php?action=profile;u=84), [Djinn](http://fhpubforum.warumdarum.de/index.php?action=profile;u=214) or [Void](http://fhpubforum.warumdarum.de/index.php?action=profile;u=3416).
